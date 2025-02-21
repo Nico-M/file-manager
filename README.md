@@ -9,3 +9,8 @@
     - npm run dev
 - cd vue-file-manager:
     - npm run dev
+
+
+#screen shot
+
+![Screenshot](./screenshot.png)
